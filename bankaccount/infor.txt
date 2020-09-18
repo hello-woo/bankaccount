@@ -1,0 +1,47 @@
+
+
+
+
+一、项目名称：   银行账户系统
+
+
+二、目的：
+	c++初学者
+	1.熟悉一下类的简单使用 class
+	2.文件io的基本操作 fstream ofstream ifstream 
+
+
+三、开发环境:
+	sublime3 g++ 
+
+
+
+四、project:
+	银行账户类
+	class AccountQuery{}
+
+	属性：
+		1.账号 accoutNumber
+		2.姓名 firstname lastname
+		3.余额 balance
+
+	操作：
+		1.登记一条记录  
+		2.显示一条记录	   
+		3.保存一条记录	   
+		4.读取一条记录
+		5.查询一条记录
+		6.编辑一条记录
+		7.删除一条记录
+
+	实现的功能：
+		主程序while循环，用户根据提示，选择对应的操作
+
+
+
+
+
+
+
+
+
